@@ -1,0 +1,3210 @@
+fileFormatVersion: 2
+guid: 9cf4832bf8932c54b80ba65db0734906
+timeCreated: 1520046478
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LionKingSheet2_0
+    21300002: LionKingSheet2_1
+    21300004: LionKingSheet2_2
+    21300006: LionKingSheet2_3
+    21300008: LionKingSheet2_4
+    21300010: LionKingSheet2_5
+    21300012: LionKingSheet2_6
+    21300014: LionKingSheet2_7
+    21300016: LionKingSheet2_8
+    21300018: LionKingSheet2_9
+    21300020: LionKingSheet2_10
+    21300022: LionKingSheet2_11
+    21300024: LionKingSheet2_12
+    21300026: LionKingSheet2_13
+    21300028: LionKingSheet2_14
+    21300030: LionKingSheet2_15
+    21300032: LionKingSheet2_16
+    21300034: LionKingSheet2_17
+    21300036: LionKingSheet2_18
+    21300038: LionKingSheet2_19
+    21300040: LionKingSheet2_20
+    21300042: LionKingSheet2_21
+    21300044: LionKingSheet2_22
+    21300046: LionKingSheet2_23
+    21300048: LionKingSheet2_24
+    21300050: LionKingSheet2_25
+    21300052: LionKingSheet2_26
+    21300054: LionKingSheet2_27
+    21300056: LionKingSheet2_28
+    21300058: LionKingSheet2_29
+    21300060: LionKingSheet2_30
+    21300062: LionKingSheet2_31
+    21300064: LionKingSheet2_32
+    21300066: LionKingSheet2_33
+    21300068: LionKingSheet2_34
+    21300070: LionKingSheet2_35
+    21300072: LionKingSheet2_36
+    21300074: LionKingSheet2_37
+    21300076: LionKingSheet2_38
+    21300078: LionKingSheet2_39
+    21300080: LionKingSheet2_40
+    21300082: LionKingSheet2_41
+    21300084: LionKingSheet2_42
+    21300086: LionKingSheet2_43
+    21300088: LionKingSheet2_44
+    21300090: LionKingSheet2_45
+    21300092: LionKingSheet2_46
+    21300094: LionKingSheet2_47
+    21300096: LionKingSheet2_48
+    21300098: LionKingSheet2_49
+    21300100: LionKingSheet2_50
+    21300102: LionKingSheet2_51
+    21300104: LionKingSheet2_52
+    21300106: LionKingSheet2_53
+    21300108: LionKingSheet2_54
+    21300110: LionKingSheet2_55
+    21300112: LionKingSheet2_56
+    21300114: LionKingSheet2_57
+    21300116: LionKingSheet2_58
+    21300118: LionKingSheet2_59
+    21300120: LionKingSheet2_60
+    21300122: LionKingSheet2_61
+    21300124: LionKingSheet2_62
+    21300126: LionKingSheet2_63
+    21300128: LionKingSheet2_64
+    21300130: LionKingSheet2_65
+    21300132: LionKingSheet2_66
+    21300134: LionKingSheet2_67
+    21300136: LionKingSheet2_68
+    21300138: LionKingSheet2_69
+    21300140: LionKingSheet2_70
+    21300142: LionKingSheet2_71
+    21300144: LionKingSheet2_72
+    21300146: LionKingSheet2_73
+    21300148: LionKingSheet2_74
+    21300150: LionKingSheet2_75
+    21300152: LionKingSheet2_76
+    21300154: LionKingSheet2_77
+    21300156: LionKingSheet2_78
+    21300158: LionKingSheet2_79
+    21300160: LionKingSheet2_80
+    21300162: LionKingSheet2_81
+    21300164: LionKingSheet2_82
+    21300166: LionKingSheet2_83
+    21300168: LionKingSheet2_84
+    21300170: LionKingSheet2_85
+    21300172: LionKingSheet2_86
+    21300174: LionKingSheet2_87
+    21300176: LionKingSheet2_88
+    21300178: LionKingSheet2_89
+    21300180: LionKingSheet2_90
+    21300182: LionKingSheet2_91
+    21300184: LionKingSheet2_92
+    21300186: LionKingSheet2_93
+    21300188: LionKingSheet2_94
+    21300190: LionKingSheet2_95
+    21300192: LionKingSheet2_96
+    21300194: LionKingSheet2_97
+    21300196: LionKingSheet2_98
+    21300198: LionKingSheet2_99
+    21300200: LionKingSheet2_100
+    21300202: LionKingSheet2_101
+    21300204: LionKingSheet2_102
+    21300206: LionKingSheet2_103
+    21300208: LionKingSheet2_104
+    21300210: LionKingSheet2_105
+    21300212: LionKingSheet2_106
+    21300214: LionKingSheet2_107
+    21300216: LionKingSheet2_108
+    21300218: LionKingSheet2_109
+    21300220: LionKingSheet2_110
+    21300222: LionKingSheet2_111
+    21300224: LionKingSheet2_112
+    21300226: LionKingSheet2_113
+    21300228: LionKingSheet2_114
+    21300230: LionKingSheet2_115
+    21300232: LionKingSheet2_116
+    21300234: LionKingSheet2_117
+    21300236: LionKingSheet2_118
+    21300238: LionKingSheet2_119
+    21300240: LionKingSheet2_120
+    21300242: LionKingSheet2_121
+    21300244: LionKingSheet2_122
+    21300246: LionKingSheet2_123
+    21300248: LionKingSheet2_124
+    21300250: LionKingSheet2_125
+    21300252: LionKingSheet2_126
+    21300254: LionKingSheet2_127
+    21300256: LionKingSheet2_128
+    21300258: LionKingSheet2_129
+    21300260: LionKingSheet2_130
+    21300262: LionKingSheet2_131
+    21300264: LionKingSheet2_132
+    21300266: LionKingSheet2_133
+    21300268: jump3
+    21300270: jump2
+    21300272: jump1
+    21300274: LionKingSheet2_137
+    21300276: LionKingSheet2_138
+    21300278: LionKingSheet2_139
+    21300280: jump6
+    21300282: jump5
+    21300284: jump4
+    21300286: LionKingSheet2_143
+    21300288: LionKingSheet2_144
+    21300290: LionKingSheet2_145
+    21300292: jump9
+    21300294: jump8
+    21300296: jump7
+    21300298: LionKingSheet2_149
+    21300300: LionKingSheet2_150
+    21300302: LionKingSheet2_151
+    21300304: jump12
+    21300306: jump11
+    21300308: jump10
+    21300310: LionKingSheet2_155
+    21300312: LionKingSheet2_156
+    21300314: LionKingSheet2_157
+    21300316: roar3
+    21300318: roar2
+    21300320: roar1
+    21300322: LionKingSheet2_161
+    21300324: LionKingSheet2_162
+    21300326: LionKingSheet2_163
+    21300328: roar6
+    21300330: roar5
+    21300332: roar4
+    21300334: LionKingSheet2_167
+    21300336: LionKingSheet2_168
+    21300338: LionKingSheet2_169
+    21300340: roar8
+    21300342: roar7
+    21300344: LionKingSheet2_172
+    21300346: LionKingSheet2_173
+    21300348: LionKingSheet2_174
+    21300350: LionKingSheet2_175
+    21300352: LionKingSheet2_176
+    21300354: LionKingSheet2_177
+    21300356: LionKingSheet2_178
+    21300358: LionKingSheet2_179
+    21300360: LionKingSheet2_180
+    21300362: LionKingSheet2_181
+    21300364: LionKingSheet2_182
+    21300366: LionKingSheet2_183
+    21300368: run3
+    21300370: run2
+    21300372: run1
+    21300374: LionKingSheet2_187
+    21300376: LionKingSheet2_188
+    21300378: LionKingSheet2_189
+    21300380: run6
+    21300382: run5
+    21300384: run4
+    21300386: LionKingSheet2_193
+    21300388: LionKingSheet2_194
+    21300390: LionKingSheet2_195
+    21300392: run9
+    21300394: run8
+    21300396: run7
+    21300398: LionKingSheet2_199
+    21300400: LionKingSheet2_200
+    21300402: LionKingSheet2_201
+    21300404: run12
+    21300406: run11
+    21300408: run10
+    21300410: LionKingSheet2_205
+    21300412: LionKingSheet2_206
+    21300414: LionKingSheet2_207
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LionKingSheet2_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1527
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1525
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1524
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1523
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_4
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1523
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_5
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1524
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_6
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1525
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_7
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1527
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1479
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_9
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1478
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_10
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1479
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_11
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1479
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_12
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1478
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_13
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1478
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_14
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1479
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_15
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1479
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_16
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1478
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_17
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1479
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_18
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1431
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1431
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_20
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1431
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_21
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1429
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_22
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1429
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_23
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1431
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_24
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1431
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_25
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1431
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_26
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1383
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_27
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1384
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_28
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1385
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_29
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1385
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_30
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1385
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_31
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1385
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_32
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1384
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_33
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1383
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_34
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1335
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_35
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1335
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_36
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1335
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_37
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1335
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_38
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1335
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_39
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1335
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_40
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1286
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_41
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1285
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_42
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1284
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_43
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1285
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_44
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1284
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_45
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1284
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_46
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1285
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_47
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1284
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_48
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1285
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_49
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1286
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1248
+        width: 53
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_51
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1247
+        width: 56
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_52
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1246
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_53
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1246
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_54
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1247
+        width: 56
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_55
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1248
+        width: 53
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_56
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1216
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_57
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1214
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_58
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1215
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_59
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1215
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_60
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1214
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_61
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1216
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_62
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1183
+        width: 53
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_63
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1183
+        width: 53
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_64
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1183
+        width: 53
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_65
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1183
+        width: 53
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_66
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1183
+        width: 53
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_67
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1183
+        width: 53
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_68
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1150
+        width: 59
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_69
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1149
+        width: 56
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_70
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1149
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_71
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1149
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_72
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1149
+        width: 56
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_73
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1150
+        width: 59
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_74
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1095
+        width: 67
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_75
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1095
+        width: 67
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_76
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1095
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_77
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1095
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_78
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1095
+        width: 67
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_79
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1095
+        width: 67
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_80
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1035
+        width: 59
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_81
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1035
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_82
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1035
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_83
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1035
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_84
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1035
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_85
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1035
+        width: 59
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_86
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 994
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_87
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 994
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_88
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 994
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_89
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 994
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_90
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 994
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_91
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 994
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_92
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 948
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_93
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 948
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_94
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 948
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_95
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 948
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_96
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 948
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_97
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 948
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_98
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 898
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_99
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 898
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_100
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 898
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_101
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 898
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_102
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 898
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_103
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 898
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_104
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 849
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_105
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 849
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_106
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 849
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_107
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 849
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_108
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 849
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_109
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 849
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_110
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 796
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_111
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 796
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_112
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 796
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_113
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 796
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_114
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 796
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_115
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 796
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_116
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 748
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_117
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 748
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_118
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 748
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_119
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 748
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_120
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 748
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_121
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 748
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_122
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 696
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_123
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 696
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_124
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 696
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_125
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 696
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_126
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 696
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_127
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 696
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_128
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 696
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_129
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 696
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_130
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 648
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_131
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 648
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_132
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 648
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_133
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 648
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 576
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 575
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 575
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_137
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 575
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_138
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 575
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_139
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 576
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 504
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 503
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 503
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_143
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 503
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_144
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 503
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_145
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 504
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump9
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 425
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump8
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 424
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump7
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 424
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_149
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 424
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_150
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 424
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_151
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 425
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump12
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 373
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump11
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 374
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 374
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_155
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 374
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_156
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 374
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_157
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 373
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roar3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 330
+        width: 51
+        height: 32
+      alignment: 9
+      pivot: {x: 0.6, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roar2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 330
+        width: 54
+        height: 34
+      alignment: 9
+      pivot: {x: 0.6, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roar1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 330
+        width: 52
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_161
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 330
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_162
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 330
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_163
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 330
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roar6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 270
+        width: 61
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roar5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 270
+        width: 63
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roar4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 269
+        width: 58
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_167
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 270
+        width: 58
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_168
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 270
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_169
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 270
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roar8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 218
+        width: 51
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roar7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 219
+        width: 60
+        height: 43
+      alignment: 9
+      pivot: {x: 0.6, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_172
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 219
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_173
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 219
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_174
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 168
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_175
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 168
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_176
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 168
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_177
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 168
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_178
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 168
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_179
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 168
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_180
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 168
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_181
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 168
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_182
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 168
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_183
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 168
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: run3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 121
+        width: 60
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: run2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 121
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: run1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 121
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_187
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 121
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_188
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 121
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_189
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 121
+        width: 60
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: run6
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 81
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: run5
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 81
+        width: 60
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: run4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 81
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_193
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 81
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_194
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 81
+        width: 60
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_195
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 81
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: run9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 44
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: run8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 44
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: run7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 44
+        width: 56
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_199
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 44
+        width: 56
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_200
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 44
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_201
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 44
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: run12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: run11
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 8
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: run10
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 8
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_205
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 8
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_206
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 8
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LionKingSheet2_207
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 8
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
